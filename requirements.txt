@@ -18,3 +18,4 @@ pyjokes
 huggingface-hub
 ctransformers[cuda]
 Jinja2
+librosa
