@@ -10,7 +10,7 @@ mimesis
 ipywidgets
 pedalboard
 matplotlib
-svd
+sdv
 nbformat
 gradio
 mlserver
