@@ -103,8 +103,8 @@ You're all set. Now navigate to `notebooks/` directory and open the `00_intro.ip
 - [nicegui](nicegui.io)
 
 **Tools to Try**
-- [Mimesis]()
-- [Faker]()
-- [SDV]()
-- [diffusers]()
-- [transformers]()
+- [Mimesis](https://mimesis.name/en/master/index.html)
+- [Faker](https://faker.readthedocs.io/en/master/)
+- [SDV](https://sdv.dev/SDV/)
+- [diffusers](https://huggingface.co/docs/diffusers/index)
+- [transformers](https://huggingface.co/docs/transformers/index)
