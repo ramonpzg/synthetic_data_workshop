@@ -1,4 +1,4 @@
-# Building Machine Learning Microservices for Music Generation
+# Synthetic Data Workshop
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ramonpzg/synthetic_data_workshop)
 
